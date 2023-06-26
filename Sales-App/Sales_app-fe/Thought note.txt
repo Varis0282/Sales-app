@@ -1,0 +1,1 @@
+This project helped me to clear my basic concepts of reactjs. I have not used react hooks for this project as it was not necessary for this project . I loved to make this project because it was very easy but at the same time I learned a lot . Thank you for grading me 🙂
